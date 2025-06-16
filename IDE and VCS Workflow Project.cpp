@@ -2,18 +2,16 @@
 //
 
 #include <iostream>
-
-int main()
-{
-	using namespace std;
+using namespace std;
+int main() {
 	char first, middle, last;
 	first = 'W';
 	middle = 'Y';
 	last = 'Q';
 	cout << first << middle << last << endl;
 	return 0;
-	
 }
+// Declare a character array to hold the name
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
