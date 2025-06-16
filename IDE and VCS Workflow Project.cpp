@@ -10,6 +10,14 @@ int main() {
 	last = 'Q';
 	cout << first << middle << last << endl;
 	return 0;
+	using namespace std;
+	char first, middle, last;
+	first = 'W';
+	middle = 'Y';
+	last = 'Q';
+	cout << first << middle << last << endl;
+	return 0;
+
 }
 // Declare a character array to hold the name
 
