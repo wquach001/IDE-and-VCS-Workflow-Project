@@ -4,20 +4,13 @@
 #include <iostream>
 using namespace std;
 int main() {
-	char first, middle, last;
-	first = 'W';
-	middle = 'Y';
-	last = 'Q';
-	cout << first << middle << last << endl;
-	return 0;
-	using namespace std;
-	char first, middle, last;
-	first = 'W';
-	middle = 'Y';
-	last = 'Q';
-	cout << first << middle << last << endl;
-	return 0;
-
+	string name, address, phoneNumber;
+	name = "Wai-Yun";
+	address = "2 Fallmeadow Court";
+	phoneNumber = "757-776-8885":
+	cout << name << endl;
+	cout << address << endl;
+	cout << phoneNumber << endl;
 }
 // Declare a character array to hold the name
 
