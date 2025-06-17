@@ -5,9 +5,9 @@
 using namespace std;
 int main() {
 	string name, address, phoneNumber;
-	name = "Wai-Yun";
+	name = "Wai-Yun Quach";
 	address = "2 Fallmeadow Court";
-	phoneNumber = "757-776-8885":
+	phoneNumber = "757-776-8885";
 	cout << name << endl;
 	cout << address << endl;
 	cout << phoneNumber << endl;
